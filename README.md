@@ -11,3 +11,5 @@
 
 # 
 git checkout -b chore/fix-cliff-config
+git add .
+git commit -a
