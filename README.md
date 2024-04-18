@@ -9,7 +9,12 @@
 2. git branch -M main
 3. git push -u origin main
 
-# 
+# Checkout new branch
 git checkout -b chore/fix-cliff-config
+
+# Add and Commit
 git add .
 git commit -a
+
+# Push and create remote new branch 
+git push origin chore/fix-cliff-config
